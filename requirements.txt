@@ -1,0 +1,8 @@
+customtkinter>=5.2.2
+pygame>=2.6.0
+PyMuPDF>=1.24.0
+EbookLib>=0.18
+beautifulsoup4>=4.12.3
+ollama>=0.4.0
+edge-tts>=6.1.12
+lxml>=5.2.0
